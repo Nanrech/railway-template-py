@@ -8,7 +8,7 @@ The `requirements.txt` holds your project's requirements, unsurprisingly. For it
 This file holds your Python version. In this template, Python 3.10.5 (`python-3.10.5`) is used as it is the latest available version, but you can specify any desired version.
 
 ## MAIN.PY
-Copy/alter to your desires the code found in `main.py` to load the environment variables into your code.
+Copy/take inspiration from the code found in `main.py` to load the environment variables into your code.
 
 ## HOW TO SET ENVIRONMENT VARIABLES
 The `production` [environment](https://docs.railway.app/develop/environments) is already available by default. To set up an [environment variable](https://docs.railway.app/develop/variables) you have to click on your project, then go to "Variables" and then simply add the variable of your choice.
